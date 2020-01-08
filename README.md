@@ -6,9 +6,9 @@ I worked with "Reuters-21578" text categorization dataset.
  
 ### How to run?
 1. Install nltk package. You can use this video tutorial for that [Link to tutorial](https://www.youtube.com/watch?v=68aHmFcO-W4)
-2. Download the train and test set from this links:
-          train set : [Link](https://drive.google.com/file/d/1CLso1jKSGQjGF1S-b_WZ7xRWJa8lkSCO/view?usp=sharing)  
-          test set: [Link](https://drive.google.com/file/d/1xTkrxJdodZRCJDPdYZ5RAsImIkNJ1ycY/view?usp=sharing)  
+2. Download the train and test set from this links:<br>
+          train set : [train set](https://drive.google.com/file/d/1CLso1jKSGQjGF1S-b_WZ7xRWJa8lkSCO/view?usp=sharing)  
+          test set: [test set](https://drive.google.com/file/d/1xTkrxJdodZRCJDPdYZ5RAsImIkNJ1ycY/view?usp=sharing)  
 3. Change the path variable in the beginning of the code to the path of the data sets in yours computer.  
 
 #### __Work Proccess:__
