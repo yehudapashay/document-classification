@@ -1,6 +1,6 @@
 # document-classification
 
-In this assignment we got as input many documents (average of 200 words in document) and the **goal**  is to predict it subject.
+In this assignment we got as input many documents and the **goal**  is to predict it subject.
 
 I worked with "Reuters-21578" text categorization dataset.
  
